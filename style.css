@@ -1,0 +1,377 @@
+#header{
+	background-image: url("../images mint/hero3-2.jpg");
+	height: 450px;
+	background-size: cover;
+	padding-top: 150px;
+	text-align: center;
+	color: white;
+
+
+}
+.btn-primary{
+	background-color: rgb(250,136,15);
+	width: 200px;
+
+}
+
+.btn-primary:hover{
+	background-color: rgba(250,136,15,0.7);
+}
+
+
+
+
+.fa-lock{
+color: white;
+/*background-color: white;*/
+}
+.fa-lock:before {
+  content: "\f023";
+}
+
+nav ul{
+	list-style: none;
+
+}
+
+li a{
+	list-style: none;
+	color: white;
+	display: inline-block;
+
+}
+
+li a:hover{
+	color: white;
+}
+
+.btn-default{
+	color: white;
+	background-color: rgb(250,136,15);
+}
+.btn-default:hover{
+	color: white;
+	background-color: rgba(250,136,15,0.7);
+}
+
+.btn{
+	color: white;
+
+}
+
+.btn:hover{
+	color: white;
+}
+
+
+
+.rog{
+	position: absolute;
+	left: 30%;
+}
+.rag{
+	position: absolute;
+	left: 45%;
+}
+.reg{
+	position: absolute;
+	left: 59%;
+}
+
+.rug{
+	position: absolute;
+	left: 70%;
+}
+
+.des{
+	position: absolute;
+	left: 7%;
+	background-color: transparent;
+}
+
+.lead h1{
+	font-size: 55px;
+	font-weight: bold;
+}
+.lead p{
+	font-size: 14px;
+	font-weight: bold;
+
+
+}
+.sas{
+color: white;
+position: absolute;
+left: 85%;
+top: 30%;
+}
+.sas:hover{
+	color: white;
+}
+.lul1{
+position: relative;
+left: 95%;
+
+}
+
+.lol1{
+	position: relative;
+	left: 95%;
+}
+.lal1{
+	position: relative;
+	left: 95%;
+	width: 80px;
+}
+
+.lul2{
+	position: relative;
+	left: 60%;
+}
+.lol2{
+	position: relative;
+	left: 60%;
+}
+
+.lal2{
+	position: relative;
+	left: 60%;
+	width: 70px;
+}
+.lul3{
+	position: relative;
+	left: 10%;
+}
+
+.lol3{
+	position: relative;
+	left: 10%;
+
+}
+
+.lal{
+	position: relative;
+	left: 10%;
+	width: 100px;
+}
+p {
+	font-size: 13px;
+
+}
+
+.container0{
+	background-color: #ecf0f1;
+	padding: 2px;
+	margin: 0;
+	position: relative;
+
+}
+
+/*.un{
+	position: relative;
+	left: 5%;
+}
+
+
+.deux{
+	position: relative;
+	left: 11.5%;
+}
+
+.trois{
+	position: relative;
+	left: 1.4%;
+}
+.quatre{
+	position: relative;
+	left: 0.98%;
+}
+
+.cinq{
+	position: relative;
+	left: -2.002%;
+}
+.six{
+position: relative;
+left: -4%;
+}*/
+
+h3{
+	font-weight: bold;
+}
+
+
+.fa-briefcase{
+	background-color: white;
+}
+
+
+
+.tab{
+	width: 1600px;
+	height: 250px;
+	position: relative;
+	left: -80%;
+	
+}
+.container-right{
+	position: relative;
+
+}
+
+a{
+	font-size: 16px;
+}
+
+.cer{
+	position: relative;
+	left:  90%;
+	width: 270px;
+}
+.cer1{
+	position: relative;
+	left: 55%;
+	width: 270px;
+}
+
+
+
+
+
+.cer2{
+	position: relative;
+	left: 20%;
+	width: 270px;
+}
+
+.cas{
+	position: relative;
+	left: 90%;
+}
+
+.cas1{
+	position: relative;
+	left: 75%;
+}
+
+.cas2{
+	position: relative;
+	left: 45%;
+}
+
+.cos{position: relative;
+	left: 90%;
+
+}
+
+
+.cos1{
+	position: relative;
+	left: 75%;
+}
+
+
+.cos2{
+	position: relative;
+	left: 50%;
+}
+
+.wrapper{
+
+	height: 650px;
+	background-size: cover;
+	text-align: center;
+	color: white;
+	background-color: rgb(105,150,155);
+}
+
+.ses{
+	position: relative;
+	width: 90px;
+
+}
+
+.ade {
+	font-size: 35px;
+
+}
+
+
+
+.tas{
+	height: 300px;
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+
+.btn-success{
+	background-color: transparent;
+}
+.btn-success:hover{
+color: inherit;
+}
+
+
+.btn-warning{
+	width: 200px;
+	height: 35px;
+	background-color: white;
+	color: rgb(103,103,103);
+	border-color: rgb(103,103,103);
+}
+
+.btn-warning:hover{
+	color: rgb(103,103,103);
+	background-color: white;
+border-color: rgb(103,103,103);
+}
+
+
+.sali{
+
+	height: 600px;
+	background-size: cover;
+	text-align: center;
+	color: white;
+	background-color: #030303;
+}
+.cah{
+   position: relative;
+   top: -18%;
+	height: 200px;
+	border-style: groove;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-top-style: hidden;
+	
+}
+
+.fa-facebook{
+	font-size: 24px;
+	color: blue;
+}
+
+.fa-twitter{
+	font-size: 21px;
+	color: blue;
+}
+
+.fa-instagram{
+	font-size: 24px;
+	color: blue;
+}
+
+.fa-mint{
+	font-size: 24px;
+	color: blue;
+}
+
+.list-inline a{
+	font-size: 12px;
+}
+p a{
+	font-size: 9px;
+}
+
+
